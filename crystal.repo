@@ -1,0 +1,3 @@
+[crystal]
+name = Crystal
+baseurl = https://dist.crystal-lang.org/rpm/
